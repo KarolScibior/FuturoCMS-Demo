@@ -1,0 +1,4 @@
+public/files/images/*
+public/files/pdf/*
+public/files/xlsx/*
+node_modules
